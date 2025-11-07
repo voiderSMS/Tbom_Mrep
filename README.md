@@ -1,13 +1,10 @@
 # Tbom_Mrep
 
-The world's #1 SM Services BOT.
+The world's #1 SMS & CALL BOT.
 
-## 🚀 Only Limited Access: [@SFXREPBOT](https://tinyurl.com/4tw854df)
-
-<p align="center">
-  <a href="https://shorturl.at/vvQdm"><img src="https://i.imgur.com/ooJO4YH.png" alt="Bot" width="500"></a>
-</p>
+## 🚀 Only Limited Access: [Visit](https://tinyurl.com/35fcrcwu)
 
 <p align="center">
-  <a href="https://shorturl.at/vvQdm"><img src="https://i.imgur.com/MMYcR2W.png" alt="Bot" width="500"></a>
+  <a href="https://tinyurl.com/35fcrcwu"><img src="https://i.imgur.com/whVaeCv.png" alt="Bot" width="500"></a>
 </p>
+
